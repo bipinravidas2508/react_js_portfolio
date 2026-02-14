@@ -14,7 +14,7 @@ Bachelor of Technology - Electrical and Electronics Engineering from BIT Mesra
 & Web Developer.
                     <br />I have a strong interest in software development and computer programming. 
                     To strengthen my skills, I have learned Java and solved more than 200 problems on LeetCode, which helped me improve my problem-solving ability and logical thinking. To gain practical exposure, I have also learned full-stack development with the MERN stack..</p></div>
-                    <button className="btn btn--primary">Get In Touch</button>
+                    <button className="btn btn--primary" onClick = {() => window.open("https://www.linkedin.com/in/bipinravidas2508/")}>Get In Touch</button>
             </div>
             <div className="hero--section--img">
                 <img src="./img/hero.png" alt="Hero Section" />
