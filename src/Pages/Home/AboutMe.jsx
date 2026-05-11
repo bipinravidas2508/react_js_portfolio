@@ -9,12 +9,10 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-           I am a motivated developer with a strong interest in frontend and backend technologies, focused on building practical and user-friendly web applications.
+          I am a motivated and detail-oriented Web Developer with a strong interest in both frontend and backend technologies, focused on building practical, responsive, and user-friendly web applications. Skilled in HTML, CSS, JavaScript, React.js, and basic backend development.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            I enjoy creating clean UI designs and efficient solutions to real-world problems. I am passionate about learning modern technologies, improving my problem-solving skills, and contributing to innovative development projects.
           </p>
         </div>
       </div>

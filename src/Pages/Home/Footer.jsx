@@ -69,7 +69,7 @@ function Footer() {
             
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://instagram.com/bipin_ravidas0007"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
